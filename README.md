@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web-Developer | Student
 -----------------------
 
-I'm student and my major are Management Information Systems & Computer Science Engineering(minor courses). I've started with HTML-CSS & JS to learn web development. I've development a few web-site. My part was front-end. I know OOP based Java.
+I am a student pursuing a major in Management Information Systems and a minor in Computer Science Engineering. I have a strong foundation in web development, with experience in HTML, CSS, and JavaScript. I have developed several websites, focusing mainly on the front-end aspect. In addition, I have a good understanding of object-oriented programming in Java. I am always looking to learn and improve my skills, and I am excited to contribute to the open source community on GitHub.
 
 *   🌍  I'm based in Istanbul
 *   ✉️  You can contact me at [hsyn8300@gmail.com](mailto:hsyn8300@gmail.com)
