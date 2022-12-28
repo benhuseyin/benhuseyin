@@ -9,4 +9,4 @@ I am a student pursuing a major in Management Information Systems and a minor in
 *   🌍  I'm based in Istanbul
 *   ✉️  You can contact me at [hsyn8300@gmail.com](mailto:hsyn8300@gmail.com)
 *   🧠  I'm learning React-native, Data Structures & Algorithms based Java.
-*   ⚡  In soon, I'll start to learn Node.js. My purpouse is being full stack js developer.
+*   ⚡  In soon, I'll start to learn Node.js. My purpose is being full stack js developer.
