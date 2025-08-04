@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, TailwindCSS, and SEO**
 
-- 📫 How to reach me **hsyn8300@gmail.com**
+- 📫 How to reach me **shuseyin.kara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
